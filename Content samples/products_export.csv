@@ -1,0 +1,346 @@
+Handle,Title,Body (HTML),Vendor,Type,Tags,Published,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Option3 Name,Option3 Value,Variant SKU,Variant Grams,Variant Inventory Tracker,Variant Inventory Qty,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Compare At Price,Variant Requires Shipping,Variant Taxable,Variant Barcode,Image Src,Image Position,Image Alt Text,Gift Card,SEO Title,SEO Description,Google Shopping / Google Product Category,Google Shopping / Gender,Google Shopping / Age Group,Google Shopping / MPN,Google Shopping / AdWords Grouping,Google Shopping / AdWords Labels,Google Shopping / Condition,Google Shopping / Custom Product,Google Shopping / Custom Label 0,Google Shopping / Custom Label 1,Google Shopping / Custom Label 2,Google Shopping / Custom Label 3,Google Shopping / Custom Label 4,Variant Image,Variant Weight Unit,Variant Tax Code
+veggie-balls,Veggie Balls,"Pack includes beetroot, spinach, eggplant, walnut and recipe for this delicious vegetarian meal (4 persons) that will impress even the most pernickety guest",foodly-store,"","spinach, vegetables",true,Title,Default Title,,,,,"",0,,1,deny,manual,29.99,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/pack-image_grande_3837a501-1d78-48f6-8030-3f50a78faa16.png?v=1478095494,1,,false,,,,,,,,,,,,,,,,,kg,
+bell-pepper,Bell pepper,"All red, yellow, and orange peppers start out green. The color changes and their sweetness increases depending on how long they're allowed to ripen on the vine. In Season: Bell peppers are available year-round, but they're at their best from July through November.
+<h2>[Nutritional value]</h2>
+<p>Energy|20kcal, Carbohydrates|4.6g, Fat|0.2g, Protein|1.2g</p>
+<ul></ul>
+<p>Vitamins:a,c,b6,e</p>
+<p>Minerals:Fe,Ma</p>",Foodly,Harvest 2016,"",true,Title,Default Title,,,,,"",454,,1,deny,manual,6.99,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/paprika.jpg?v=1476191105,1,,false,,,,,,,,,,,,,,,,,lb,
+eggplant,Eggplant,"The eggplant, also known as aubergine, garden egg, guinea squash, melongene, and brinjal, is usually distinguishable by its signature egg-like shape and vibrant purple color. Although the dark purple version of eggplants is best known, they actually come in a variety of shapes and colors from small and oblong to long and skinny, from shades of purple to white and green.
+<h2>[Nutritional value]</h2>
+<p>Energy|25kcal, Carbohydrates|6g, Fat|0.2g, Protein|1g</p>
+<ul></ul>
+<p>Vitamins:c,b6,</p>
+<p>Minerals:Fe,Mg</p>",Foodly,Harvest 2016,"",true,Title,Default Title,,,,,"",1000,,1,deny,manual,7.50,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/eggplant.jpg?v=1476190860,1,,false,,,,,,,,,,,,,,,,,kg,
+avocado,Avocado,"<p>Avocados are commercially valuable and are cultivated in tropical and Mediterranean climates throughout the world.[3] They have a green-skinned, fleshy body that may be pear-shaped, egg-shaped, or spherical. Commercially, they ripen after harvesting. Avocado trees are partially self-pollinating and often are propagated through grafting to maintain a predictable quality and quantity of the fruit.</p>
+<h2>[Nutritional value]</h2>
+<p>Energy|20kcal, Carbohydrates|9g, Fat|8g, Protein|1g</p>
+<ul></ul>
+<p>Vitamins:c,e,k</p>
+<p>Minerals:Cu,Mg,Zn</p>",foodly-store,Harvest 2016,"",true,Title,Default Title,,,,,"",454,,1,deny,manual,3.00,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/avocado.jpg?v=1476190534,1,,false,,,,,,,,,,,,,,,,,lb,
+wooden-spoon,Wooden Spoon,"Richly grained acacia wood turns out in smooth, sculptural serving essentials, naturally suited to everyday use, entertaining or artful display. Spoon rounds in organic curves to hold salads, snacks, fruit or collectibles. Each piece is given a clear lacquer finish to bring out the wood's warm color and individual markings. Harvested from well-managed forests in the Philippines under close supervision of the local government's reforestation program.",foodly-store,Alder wood,"",true,Title,Default Title,,,,,"",454,,1,deny,manual,49.99,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/spoon.jpg?v=1473490998,1,,false,,,,,,,,,,,,,,,,,lb,
+wooden-bowls,Wooden Bowls,"Richly grained acacia wood turns out in smooth, sculptural serving essentials, naturally suited to everyday use, entertaining or artful display. Bowls round in organic curves to hold salads, snacks, fruit or collectibles. Each piece is given a clear lacquer finish to bring out the wood's warm color and individual markings. Harvested from well-managed forests in the Philippines under close supervision of the local government's reforestation program.",foodly-store,Alder wood,"",true,Title,Default Title,,,,,"",28,,1,deny,manual,103.99,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/bowl.jpg?v=1473490962,1,,false,,,,,,,,,,,,,,,,,oz,
+leek,Leek,"<p>Leeks have a mild, onion-like taste. In its raw state, the vegetable is crunchy and firm. The edible portions of the leek are the white base of the leaves (above the roots and stem base), the light green parts, and to a lesser extent the dark green parts of the leaves. One of the most popular uses is for adding flavor to stock.</p>
+<h1>[Nutritional value]</h1>
+<p>Energy|61Kcal, Carbohydrates|14g, Protein|0.9g, Total Fat|0.3g, Dietary Fiber|1.5g</p>
+<p><span>Vitamins:a,c,b6</span></p>
+<p><span>Minerals:Fe,Ca,Mn,Ma</span></p>",foodly-store,Harvest 2016,"",true,Title,Default Title,,,,,"",1000,,1,deny,manual,13.00,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/leek.jpg?v=1473490100,1,,false,,,,,,,,,,,,,,,,,kg,
+cherry-tomatoes-2016,Cherry Tomatoes 2016,"<p>These Cherry tomatoes just might be the sweetest little tomatoes we’ve ever offered. It is all thanks to perfect weather conditions this season. Very small, firm and juicy, it’s a great choice when you’re looking for a fresh and nutritious option for snacking. And when you’re making salads, just wash and toss in – no slicing required.</p>
+<h1>[Nutritional value]</h1>
+<p>Energy|18Kcal, Carbohydrates|3.9g, Protein|0.9g, Total Fat|0.2g, Dietary Fiber|1.2g</p>
+<p><span>Vitamins:a,c,e,k</span></p>
+<p><span>Minerals:Ca,Zn,Ma,P,Mn</span></p>",foodly-store,Harvest 2016,"",true,Title,Default Title,,,,,"",1000,,1,deny,manual,6.90,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/cherry-tomatoes.jpg?v=1473490001,1,,false,,,,,,,,,,,,,,,,,kg,
+green-beans,Green Beans,"<p>Green beans are eaten around the world, and are marketed canned, frozen, and fresh. Green beans are often steamed, boiled, stir-fried, or baked in casseroles. A dish with green beans popular throughout the United States, particularly at Thanksgiving, is green bean casserole, which consists of green beans, cream of mushroom soup, and French fried onions.</p>
+<h2>[Nutritional value]</h2>
+<p><span>Energy | 31kcal, </span><span>Carbohydrates |7 g, </span><span>Fat | 0.1 g</span><span>, Protein</span><span> | 1.8 </span>g</p>
+<ul></ul>
+<p><span>Vitamins:c,k,b2,b6,b7</span></p>
+<p>Minerals:Mg,Fe,Mn,P</p>",foodly-store,Harvest 2016,"",true,Title,Default Title,,,,,"",454,,1,deny,manual,2.99,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/green-beans.jpg?v=1473489516,1,,false,,,,,,,,,,,,,,,,,lb,
+cucumber,Cucumber,"<p>The heart-shaped silhouette of the strawberry is the first clue that this fruit is good for you. These potent little packages protect your heart, increase HDL (good) cholesterol, lower your blood pressure, and guard against cancer.</p>
+<h2>[Nutritional value]</h2>
+<p><span>Energy | 16kcal, </span><span>Carbohydrates |3.6 g, </span><span>Fat | 0.1 g</span><span>, Protein</span><span> | 0.7 </span>g</p>
+<ul></ul>
+<p><span>Vitamins:c,k,b5,b6</span></p>
+<p>Minerals:Ca,Mg,Fe,Mn,Zn</p>",foodly-store,Harvest 2016,"",true,Title,Default Title,,,,,"",1000,,1,deny,manual,16.80,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/cucumber.jpg?v=1473489264,1,,false,,,,,,,,,,,,,,,,,kg,
+strawberries,Strawberries,"<p>The heart-shaped silhouette of the strawberry is the first clue that this fruit is good for you. These potent little packages protect your heart, increase HDL (good) cholesterol, lower your blood pressure, and guard against cancer.</p>
+<h2>[Nutritional value]</h2>
+<p><span>Energy | 33 kcal, </span><span>Carbohydrates |8 g, </span><span>Fat | 0.3 g</span><span>, Protein</span><span> | 0.7 </span>g</p>
+<ul></ul>
+<p><span>Vitamins:a,</span>c,e,b9</p>
+<p>Minerals:Mg,Fe,Mn</p>",foodly-store,Harvest 2016,"",true,Title,Default Title,,,,,"",454,,1,deny,manual,2.85,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/strawberries.jpg?v=1473489009,1,,false,,,,,,,,,,,,,,,,,lb,
+lime,Lime,"<p>Wonderful for bringing out the flavor of other foods, limes, while similar to lemons, have their own distinctive citrus flavor. Lime juice even has more acid and natural sugar content than its close cousin lemon juice. While some limes, known as sweet limes, contain little citric acid, the tart variety will give you the most nutritional bang for your buck.</p>
+<h2>[Nutritional value]</h2>
+<p><span>Energy | 30 kcal, </span><span>Carbohydrates |11 g, </span><span>Fat | 0.2 g</span><span>, Protein</span><span> | 0.7 </span>g</p>
+<ul></ul>
+<p><span>Vitamins:a</span>,c</p>
+<p>Minerals:Ca,Mg,P</p>",foodly-store,Harvest 2016,"",true,Title,Default Title,,,,,"",1000,,1,deny,manual,6.00,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/lime.jpg?v=1473488514,1,,false,,,,,,,,,,,,,,,,,kg,
+chives,Chives,"<p>Sweet, mild-onion flavored chives are fresh top greens in the onion family of bulb vegetables. Its stiff, hollow, tubular leaves appear similar to that of onions, but smaller in diameter, and appear somewhat like grass from a distance.</p>
+<h2>[Nutritional value]</h2>
+<p><span>Energy | 20 kcal, </span><span>Carbohydrates |4 g, </span><span>Fat | 0 g</span><span>, Protein</span><span> | 2 </span>g</p>
+<ul></ul>
+<p><span>Vitamins:a</span>,b3,b5,b9,c,e,k</p>
+<p>Minerals:Ca,Mg,K,P</p>",foodly-store,Harvest 2016,"",true,Title,Default Title,,,,,"",20,,1,deny,manual,2.98,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/chives.jpg?v=1473488140,1,,false,,,,,,,,,,,,,,,,,g,
+beetroot,Beetroot,"<p>Belonging to the same family as chard and spinach, both the leaves and root can be eaten - the leaves have a bitter taste whereas the round root is sweet. Typically a rich purple colour, beetroot can also be white or golden. Due to its high sugar content, beetroot is delicious eaten raw but is more typically cooked or pickled.</p>
+<h2>[Nutritional value]</h2>
+<p><span>Energy | 43 kcal, </span><span>Carbohydrates |10 g, </span><span>Fat | 0.2 g</span><span>, Protein</span><span> | 1.6 </span>g</p>
+<ul></ul>
+<p><span>Vitamins:a</span>,b9,b3,c,d</p>
+<p>Minerals:Na,Ca,Mg,P,K</p>",foodly-store,Harvest 2016,"",true,Title,Default Title,,,,,"",1000,,1,deny,manual,2.95,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/beetroot.jpg?v=1473487746,1,,false,,,,,,,,,,,,,,,,,kg,
+broccoli,Broccoli,"<p>Broccoli belongs to the cruciferous vegetable family, which includes kale, cauliflower, Brussels sprouts, bok choy, cabbage, collard greens, rutabaga and turnips. These nutrition powerhouses supply loads of nutrients for little calories.</p>
+<h2>[Nutritional value]</h2>
+<p><span>Energy | 34 kcal, </span><span>Carbohydrates |7 g, </span><span>Fat | 0.4 g</span><span>, Protein</span><span> | 2.8 </span>g</p>
+<ul></ul>
+<p><span>Vitamins:a</span>,b6,b12c,d</p>
+<p>Minerals:Ca,Mg,Fe</p>",foodly-store,Harvest 2016,"",true,Title,Default Title,,,,,"",454,,1,deny,manual,1.80,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/broccoli.jpg?v=1473487386,1,,false,,,,,,,,,,,,,,,,,lb,
+asparagus,Asparagus,"<p>Asparagus is a nutrient-dense food that is high in folic acid and is also a good source of potassium, fiber, vitamin B6, vitamins A and vitamin C, and thiamine. Extensive research into asparagus nutrition has resulted in this funny-looking vegetable being ranked among the top fruits and vegetables for its ability to reduce the effect of cell-damaging free radicals.</p>
+<h2>[Nutritional value]</h2>
+<p><span>Energy | 20 kcal, </span><span>Carbohydrates |4 g, </span><span>Fat | 0 g</span><span>, Protein</span><span> | 2 </span>g</p>
+<ul></ul>
+<p><span>Vitamins:a</span>,b1,b2,b3,b6,c,k</p>
+<p>Minerals:Ca,Mg</p>",foodly-store,Harvest 2016,"",true,Title,Default Title,,,,,"",454,,1,deny,manual,2.00,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/asparagus.jpg?v=1473487320,1,,false,,,,,,,,,,,,,,,,,lb,
+onions,Red Onions,"<p>Red onions are probably the best option to use in your salads or to be eaten raw because of its light sweeter taste and particular aroma. This particular onion cultivar is very high in flavonoids which are very useful for the health. We recommend Red onions to be used as a constituent of salad, sandwich and especially burger to enrich its succulence.</p>
+<meta charset=""utf-8"">
+<h2>[Nutritional value]</h2>
+<p><span>Energy | 40 kcal, </span><span>Carbohydrates |9.34 g, </span><span>Fat | 0.1 g</span></p>
+<ul></ul>
+<p><span>Vitamins:</span>b1,b2,b5,b6,b9,c</p>
+<p>Minerals:Ca,Fr,Mg,Mn,P,K,Zn</p>",Foodly,Harvest 2014,"dried, fall, harvest 2014, onion, red, spring, summer, vegetables, vitamin C, winter",true,Title,Default Title,,,,,FS002,1000,shopify,23,deny,manual,1.55,,true,false,"",https://cdn.shopify.com/s/files/1/1148/3974/products/Red-onions.jpeg?v=1456211183,1,,false,,,,,,,,,,,,,,,,,kg,
+onions,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Red-onions-close-up.jpeg?v=1456211183,2,,,,,,,,,,,,,,,,,,,,
+onions,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Red-onions-from-above.jpeg?v=1456211183,3,,,,,,,,,,,,,,,,,,,,
+spinach,Spinach,"<p><span>Calorie for calorie, leafy green vegetables like spinach with its delicate texture and jade green color provide more nutrients than any other food. Although spinach is available throughout the year, its season runs from March through May and from September through October when it is the freshest, has the best flavor, and is most readily available. Spinach has the bitterness of beet greens and the slightly salty flavor of Swiss chard that makes them delicious as a soup basis or filing to a pie.</span></p>
+<h2><span>[Nutritional value]</span></h2>
+<p>Energy | 23 kcal, Carbohydrates | 2.9 g, Fat | 0.4 g, Dietary fiber | 2.2 g,</p>
+<ul></ul>
+<p>Vitamins:a,b2,b6,b9,c,e,k</p>
+<p>Minerals:Ca,Fr,Mg,Mn,P,K,Zn</p>",Foodly,Harvest 2015,"condiments, dried, spinach",true,Dimension,Bunch,,,,,FS003,0,shopify,9,deny,manual,4.25,6.90,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/Spinach-front.jpeg?v=1456211174,1,,false,,,,,,,,,,,,,,,,,kg,
+spinach,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Spinach-above.jpeg?v=1456211174,2,,,,,,,,,,,,,,,,,,,,
+spinach,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Spinach.jpeg?v=1456211174,3,,,,,,,,,,,,,,,,,,,,
+empire-apples,Empire Apples,"<p>Empire apples are red, juicy, firm, crunchy and sweet. We have already been gathering them during September and October for fourteen years. This delicious apple cultivar will be in good usable conditions until January. Empire apples are excellent for eating and salads, and good for sauce, baking, pies and freezing. We root for these apples as an ideal lunch-box apple, not least because it does not bruise easily.</p>
+<meta charset=""utf-8"">
+<h2>[Nutritional value]</h2>
+<p><span>Energy | 52 kcal, </span><span>Carbohydrates |13.81 g, </span><span>Fat | 0.17 g</span></p>
+<ul></ul>
+<p><span>Vitamins:a,</span>b1,b2,b3,b5,b6,b9,c,e,k</p>
+<p>Minerals:Ca,Fr,Mg,Mn,P</p>",Foodly,Harvest 2015,"apple, baking, fresh, fruit, harvest 2015, lunch box, red, salad, winter",true,Title,Default Title,,,,,FS005,1000,shopify,50,deny,manual,2.89,,true,false,"",https://cdn.shopify.com/s/files/1/1148/3974/products/Empire-Apple.jpeg?v=1456211165,1,,false,,,,,,,,,,,,,,,,,kg,
+empire-apples,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Apple-cuts.jpeg?v=1456211165,2,,,,,,,,,,,,,,,,,,,,
+empire-apples,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Apples-horizontal.jpeg?v=1456211165,3,,,,,,,,,,,,,,,,,,,,
+thompson-seedless-grapes,Thompson Seedless Grapes,"<p><span>Thompson seedless grapes are one of the world's most popular eating grapes. It has a perfect refreshing sweet taste. What's the best of it that they can be a dessert itself or used in some sort of fruit salad seasoned with any condiment or juice.  </span></p>
+<h2>[Nutritional value]</h2>
+<p>Energy | 39 kcal, Carbohydrates |10 g, Fat | 0.1 g, Protein | 0.5g</p>
+<ul></ul>
+<p>Vitamins:a,b1,b2,b3,b5,b6,c,e,k</p>
+<p>Minerals:Ca,Fr,Mg,Mn,P,Zn</p>",Foodly,Harvest 2015,"fruit, grapes, harvest 2015, liquid",true,Title,Default Title,,,,,FS006,1000,shopify,12,deny,manual,6.05,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/Thompson-Seedless-Grape.jpeg?v=1456211160,1,,false,,,,,,,,,,,,,,,,,kg,
+thompson-seedless-grapes,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Thompson-Seedless-Grape-close-up.jpeg?v=1456211160,2,,,,,,,,,,,,,,,,,,,,
+winter-pumpkin,Winter Pumpkin,"<meta charset=""utf-8"">
+<p><span>Winter pumpkins are a delicious addition to your cold season meal. Choose red or green compact versions of this special cultivar to cook <em>Heaven-and-Earth Tempura Cakes</em> or <em>Pumpkin Puree with Ginger</em>. Its distinctive bottom with a circular ridge, though, gives it away. On some, the ridge may surround a more pronounced bump, or ""turban."" A freshly cut buttercup may smell like a clean, fragrant cucumber, but once cooked, its orange flesh becomes dense, a bit dry, and very mild. </span></p>
+<meta charset=""utf-8"">
+<h2>[Nutritional value]</h2>
+<p><span>Energy | 26 kcal, </span><span>Carbohydrates |6.5 g, </span><span>Fat | 0.1 g</span></p>
+<ul></ul>
+<p><span>Vitamins:a</span>,b1,b2,b3,b5,b6,b9c,e,k</p>
+<p>Minerals:Ca,Fr,Mg,Mn,P,K,Zn</p>",Foodly,Harvest 2014,"harvest 2014, liquid, pumpkin, vegetables",true,Title,Default Title,,,,,FS009,1000,shopify,77,deny,manual,3.29,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/Pumpkins-_horizontal.jpeg?v=1456211157,1,,false,,,,,,,,,,,,,,,,,kg,
+winter-pumpkin,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Pumpkins.jpeg?v=1456211157,2,,,,,,,,,,,,,,,,,,,,
+winter-pumpkin,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Pumpkins-behind-grens.jpeg?v=1456211157,3,,,,,,,,,,,,,,,,,,,,
+raspberries,Raspberries,"<p>We started growing raspberries in 90’s on our family farm near Cupar. Our cultivar has exeptional sweet taste with astringent flavor. These individually gathered berries are a wonderful taste of summer in your everyday meal. Raspberries are perfect in smoothies, baking, on pancakes or just plain old snacking out of the bag!  Enjoy!</p>
+<h2>[Nutritional value]</h2>
+<span style=""line-height: 1.4;"">Energy | 53 kcal, </span><span style=""line-height: 1.4;"">Carbohydrates |11.94 g, </span><span style=""line-height: 1.4;"">Fat | 0.65 g</span><br>
+<ul></ul>
+<p><span style=""line-height: 21px;"">Vitamins:</span>b1,b2,b3,b5,b6,b9,c,e,k</p>
+<p>Minerals:Ca,Fr,Mg,Mn,P,K,Zn</p>",Foodly,Harvest 2015,"frozen, fruit, harvest 2015, raspberries, red",true,Dimension,Pint,,,,,FS010,0,shopify,30,deny,manual,10.98,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/raspberries.jpeg?v=1456211149,1,,false,,,,,,,,,,,,,,,,,kg,
+raspberries,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/raspberries-2.jpeg?v=1456211149,2,,,,,,,,,,,,,,,,,,,,
+raspberries,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/raspberries-pie.jpeg?v=1456211149,3,,,,,,,,,,,,,,,,,,,,
+tomatoes,Campari Tomatoes,"<p>Campari is a type of tomato, noted for its juiciness, high sugar level, low acidity, and lack of mealiness. Camparis are deep red and larger than a cherry tomato, but smaller and rounder than a plum tomato. This tomatoes variety is a handy ingredient in your kitchen as it can be nourished raw, salads, snacks and other cooking.</p>
+<pre>[Nutritional value]
+Energy|18Kcal, Carbohydrates|3.9g, Protein|0.9g, Total Fat|0.2g, Dietary Fiber|1.2g
+Vitamins:a,c,e,k
+Minerals:Ca,Zn,Ma,P,Mn</pre>",Foodly,Harvest 2015,"liquid, red, sale, tomatoes, vegetables",true,Title,Default Title,,,,,FS0111,1000,shopify,50,deny,manual,11.00,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/Campari-Tomatoes.jpeg?v=1456211143,1,,false,,,,,,,,,,,,,,,,,kg,
+tomatoes,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Campari-Tomatoes-closer_b2dc02f3-fb47-4ed9-b818-37c7660f3a30.jpeg?v=1456211143,2,,,,,,,,,,,,,,,,,,,,
+red-european-plums,Red European Plums,"<p>European plum is an ancient domesticated species, known only in cultivation, now cultivated in temperate areas worldwide and our farm is not an exception. This particular plum cultivar differs from others with globose and large enough form. They are very juicy and especially suitable for salads or other quick desserts. European plum has a firm and succulent flesh full of antioxidants.</p>
+<meta charset=""utf-8"">
+<h2>[Nutritional value]</h2>
+<p><span>Energy | 46 kcal, </span><span>Carbohydrates |11.42 g, </span><span>Fat | 0.28 g</span><span>, Protein</span><span> | 0.7</span>g</p>
+<ul></ul>
+<p><span>Vitamins:a</span>,b1,b2,b3,b5,b6,c,e,k</p>
+<p>Minerals:Ca,Fr,Mg,Mn,P,Zn</p>",Foodly,Harvest 2015,"fresh, fruit, harvest 2015, red, Red European Plums",true,Dimension,Unit,,,,,SK70990,0,shopify,17,deny,manual,1.32,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/Red-plums-perspective.jpeg?v=1456211139,1,,false,,,,,,,,,,,,,,,,,kg,
+red-european-plums,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Red-plum-close-up.jpeg?v=1456211139,2,,,,,,,,,,,,,,,,,,,,
+red-european-plums,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Red-plums-front.jpeg?v=1456211139,3,,,,,,,,,,,,,,,,,,,,
+peaches,Peaches,"<p>Our peaches are extremely sweet to the taste with soft and thin skin. This particular cultivar is low-acid and white-fleshed that makes it a perfect candidate for the fresh desserts due to the juicy taste and entrancing aroma.</p>
+<meta charset=""utf-8"">
+<h2>[Nutritional value]</h2>
+<p><span>Energy | 39 kcal, </span><span>Carbohydrates |9.54 g, </span><span>Fat | 0.25 g, </span>Protein| 0.91g</p>
+<ul></ul>
+<p><span>Vitamins:a,</span>b1,b2,b3,b5,b6,c,e,k</p>
+<p>Minerals:Fr,Mg,Mn,P,K,Z</p>",Foodly,Harvest 2015,"frozen, fruit, peaches",true,Title,Default Title,,,,,FS012,1000,shopify,18,deny,manual,5.99,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/Peaches-in-the-pot.jpeg?v=1456211131,1,,false,,,,,,,,,,,,,,,,,kg,
+peaches,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/peaches.jpeg?v=1456211131,2,,,,,,,,,,,,,,,,,,,,
+peaches,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Peaches-cut-off.jpeg?v=1456211131,3,,,,,,,,,,,,,,,,,,,,
+radishes,Radishes,"<p>Our radishes are crisp enough and feels refreshening <span>pungent that makes them perfect</span><span> for salads, but they also may appear in many other dishes. </span><span>Radish leaves are sometimes used in spicy recipes, like potato soup or as a sauteed side dish. You can also find them as a blended constituent with fruit juices in some piquant recipes.</span></p>
+<h2>[Nutritional value]</h2>
+<p>Energy | 16 kcal, Carbohydrates |3.4 g, Fat | 0.1 g, Protein| 0.68g</p>
+<ul></ul>
+<p>Vitamins:b2,b5,b6,b9,c,</p>
+<p>Minerals:K,Fr,Mg,Mn,P,Ca,Z</p>",Foodly,Harvest 2015,"frozen, harvest 2015, radishes, vegetables",true,Dimension,Bunch,,,,,FS013,0,shopify,0,deny,manual,2.49,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/Radishes.jpeg?v=1456211127,1,,false,,,,,,,,,,,,,,,,,kg,
+radishes,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Radishes-side-close-up.jpeg?v=1456211127,2,,,,,,,,,,,,,,,,,,,,
+radishes,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Radishes-rightside.jpeg?v=1456211127,3,,,,,,,,,,,,,,,,,,,,
+basil,Basil,"<p>Basil is a well-known name for the culinary herb. Would like to make your pizza or salad smell and taste differently and intriguing, basil will manage this task. This is a </p>
+<p><span><span><span>""king of herbs"" by many cookery authors, so don't pass by and join the </span></span></span></p>
+<p><span><span><span>credible</span> community. Basil is most commonly used fresh in cooked recipes. In general, it is added at the last moment, as cooking quickly destroys the flavor.</span></span></p>
+<h1>[Nutritional value]</h1>
+<p>Energy|22Kcal, Carbohydrates|2.65g, Protein|3.15g, Total Fat|0.64g, Dietary Fiber|1.6g</p>
+<p>Vitamins:a,b2,b3,b6,b9,c,k</p>
+<p>Minerals:Ca,Fe,Zn,Mg,P,Mn</p>",Foodly,Harvest 2015,"basil, dried, green, harvest 2015, herbals",true,Dimension,Bunch,,,,,FS014,0,shopify,5,deny,manual,2.29,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/Basil.jpeg?v=1456211118,1,,false,,,,,,,,,,,,,,,,,kg,
+basil,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Basil-close-up.jpeg?v=1456211118,2,,,,,,,,,,,,,,,,,,,,
+basil,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Basil-side-pic.jpeg?v=1456211118,3,,,,,,,,,,,,,,,,,,,,
+stanley-plums,Stanley Plums,"<p>Description text how product was grown and reserved. All nutrition features that interest user goes here as well. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<meta charset=""utf-8"">
+<h2>[Nutritional value]</h2>
+<p><span>Energy | 46 kcal, </span><span>Carbohydrates |11.42 g, </span><span>Fat | 0.28 g</span><span>, Protein</span><span> | 0.7</span>g</p>
+<ul></ul>
+<p><span>Vitamins:a</span>,b1,b2,b3,b5,b6,c,e,k</p>
+<p>Minerals:Ca,Fr,Mg,Mn,P,Zn</p>",Foodly,Harvest 2015,"dessert, fresh, fruit, jam, juicy, plums, stanley plums, summer",true,Title,Default Title,,,,,"",1000,shopify,9,deny,manual,4.25,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/Stanley-Plums-Above.jpeg?v=1456211110,1,,false,,,,,,,,,,,,,,,,,kg,
+stanley-plums,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Stanley-Plum-perspective.jpeg?v=1456211110,2,,,,,,,,,,,,,,,,,,,,
+stanley-plums,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Stanley-Plum-Cut-off.jpeg?v=1456211110,3,,,,,,,,,,,,,,,,,,,,
+new-year-card,New Year card,<p></p>,Foodly,"","",false,Title,$10.00,,,,,"",0,,1,deny,gift_card,10.00,,false,false,,https://cdn.shopify.com/s/files/1/1148/3974/products/12_3301ad62-e398-4578-9e36-d43c4f23ff91.png?v=1456211108,1,,true,,,,,,,,,,,,,,,,,kg,
+new-year-card,,,,,,,,$25.00,,,,,"",0,,1,deny,gift_card,25.00,,false,false,,,,,,,,,,,,,,,,,,,,,,kg,
+new-year-card,,,,,,,,$50.00,,,,,"",0,,1,deny,gift_card,50.00,,false,false,,,,,,,,,,,,,,,,,,,,,,kg,
+new-year-card,,,,,,,,$100.00,,,,,"",0,,1,deny,gift_card,100.00,,false,false,,,,,,,,,,,,,,,,,,,,,,kg,
+christmas-card,Christmas card,<p></p>,Foodly,"","",false,Title,$100.00,,,,,"",0,,1,deny,gift_card,100.00,,false,false,,https://cdn.shopify.com/s/files/1/1148/3974/products/11_23d5660b-2642-4baf-9be9-dcb947e060c5.png?v=1456211107,1,,true,,,,,,,,,,,,,,,,,kg,
+berrissimo-pack,Berrissimo Pack,"<ul>
+<li><span style=""line-height: 1.5;"">1 kg raspberries</span></li>
+<li><span style=""line-height: 1.5;"">1 kg strawberries</span></li>
+<li><span style=""line-height: 1.5;"">2 kg red currants</span></li>
+<li><span style=""line-height: 1.5;"">2 kg black currants</span></li>
+</ul>
+<ul></ul>",Foodly,Harvest 2014,fresh,true,Size,pack,,,,,"",4000,,0,deny,manual,15.00,,true,true,"",,,,false,,,,,,,,,,,,,,,,,kg,
+jam-it-suit,Jam It Suit,"<ul>
+<li>3 kg apricots</li>
+<li>2 kg peaches</li>
+<li>1 kg oranges</li>
+<li>special syrup</li>
+</ul>",Foodly,Harvest 2014,freah,true,Size,pack,,,,,"",6300,,1,deny,manual,15.00,,true,true,"",,,,false,,,,,,,,,,,,,,,,,kg,
+pasta-mia-bag,Pasta Mia Bag,"<ul>
+<li>4 kg tomatoes</li>
+<li>2 kg sweet pepper</li>
+<li>1 kg apples</li>
+<li>o.5 kg onion</li>
+</ul>",Foodly,Harvest 2014,fresh,true,Size,pack,,,,,"",7500,,-2,deny,manual,15.00,,true,true,"",,,,false,,,,,,,,,,,,,,,,,kg,
+gala-apples,Gala Apples,"<meta charset=""utf-8""><meta charset=""utf-8"">
+<p><span>Gala is one of our favorite apple cultivars. We started growing this particular apple cultivar in 1989 in our familial garden which was renovated two years before. Since that times Gala Apples are produced by our family and distributed at the local markets. Our cultivar has an exceptionally sweet taste with a mild flavor. Gala apples are a perfect choice to be added to salads or cooked. We highly recommend them as a constituent element of delicious sauces. </span></p>
+<h2>[Nutritional value]</h2>
+<span>Energy | 52 kcal, </span><span>Carbohydrates | 13,81 g, </span><span>Fat | 0.2 g</span><br>
+<ul></ul>
+<p><span>Vitamins:a,</span>b1,b2,b3,b5,b6,b9,c,e,k</p>
+<p>Minerals:Ca,Fr,Mg,Mn,Na,P,K,Zn</p>",Foodly,Harvest 2015,"apple, dessert, filling, fresh, fruit, harvest 2015, red, summer, sweet, topping",true,Title,Default Title,,,,,FS019,0,shopify,200,deny,manual,4.39,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/apples.jpeg?v=1456211105,1,,false,,,,,,,,,,,,,,,,,kg,
+gala-apples,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/apple_pyramid.jpeg?v=1456211105,2,,,,,,,,,,,,,,,,,,,,
+gala-apples,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Apple_crepes_with_raspberryon_top.jpeg?v=1456211105,3,,,,,,,,,,,,,,,,,,,,
+red-kabocha-squash,Red Kabocha Squash,"<p>Kabocha has an exceptional naturally sweet flavor, even sweeter in taste than butternut squash. It is similar in texture and flavor to a pumpkin and a sweet potato combined. Some kabocha can taste like Russet potatoes. The rind of a kabocha is edible, although, some cooks may peel it to speed up the cooking process, or, to suit their personal taste preferences. Kabocha is commonly utilized in side dishes and soups, or, as a substitute for potato or other squash varieties.</p>
+<meta charset=""utf-8"">
+<h2>[Nutritional value]</h2>
+<p><span>Energy | 26 kcal, </span><span>Carbohydrates |6.5 g, </span><span>Fat | 0.1 g</span></p>
+<ul></ul>
+<p><span>Vitamins:a</span>,b1,b2,b3,b5,b6,b9c,e,k</p>
+<p>Minerals:Ca,Fr,Mg,Mn,P,K,Zn</p>",Foodly,"","fresh, harvest 2014, kabocha, pumpkin, red, squash, winter",true,Title,Default Title,,,,,FS0115,0,shopify,10,deny,manual,2.84,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/Red-Kabocha.jpeg?v=1456211099,1,,false,,,,,,,,,,,,,,,,,kg,
+red-kabocha-squash,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Pumpkin-close-up.jpeg?v=1456211099,2,,,,,,,,,,,,,,,,,,,,
+red-kabocha-squash,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Pumpkin-in-the-field.jpeg?v=1456211099,3,,,,,,,,,,,,,,,,,,,,
+maynard-plum,Maynard Plums,"<p>Maynard is one of our orchard special cultivars. Just like an apricot, the fruit flesh clings tightly to the pit. Its taste can differ from sweet to bitter sweet. The fruit is particularly aromatic that makes it especially appropriate for jams. As all plums Maynard plums are full of antioxidants.</p>
+<meta charset=""utf-8"">
+<h2>[Nutritional value]</h2>
+<p><span>Energy | 46 kcal, </span><span>Carbohydrates |11.42 g, </span><span>Fat | 0.28 g</span><span>, Protein</span><span> | 0.7</span>g</p>
+<ul></ul>
+<p><span>Vitamins:a</span>,b1,b2,b3,b5,b6,c,e,k</p>
+<p>Minerals:Ca,Fr,Mg,Mn,P,Zn</p>",Foodly,Harvest 2015,"fresh, fruit, harvest 2015, jam, juicy, plums, red, summer",true,Title,Default Title,,,,,SK70966,0,shopify,20,deny,manual,2.11,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/Maynard-Plum-Front.jpeg?v=1456211090,1,,false,,,,,,,,,,,,,,,,,kg,
+maynard-plum,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Maynard-Plum-Macro.jpeg?v=1456211090,2,,,,,,,,,,,,,,,,,,,,
+maynard-plum,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Maynard-plum-close-up.jpeg?v=1456211090,3,,,,,,,,,,,,,,,,,,,,
+damson-plums,Damson Plums,"<p>Damson plums are very popular and widespread cultivar. Probably it is the first one that comes in mind when you hear the word <em>""plum""</em>. The main characteristic of these plums is its distinctive rich flavour; unlike other plums, it is both high in sugars and highly astringent. The fruit of the damson has a distinctive, somewhat astringent taste, and are widely used for culinary purposes, particularly in fruit preserves or jam.</p>
+<meta charset=""utf-8"">
+<h2>[Nutritional value]</h2>
+<p><span>Energy | 46 kcal, </span><span>Carbohydrates |11.42 g, </span><span>Fat | 0.28 g</span><span>, Protein</span><span> | 0.7</span>g</p>
+<ul></ul>
+<p><span>Vitamins:a</span>,b1,b2,b3,b5,b6,c,e,k</p>
+<p>Minerals:Ca,Fr,Mg,Mn,P,Zn</p>",Foodly,Harvest 2015,"blue, damson, dessert, fresh, fruit preserves, harvest 2015, jam, plums, purple, stanley plums, summer",true,Title,Default Title,,,,,SK8700,0,shopify,6,deny,manual,1.99,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/Damson.jpeg?v=1456211083,1,,false,,,,,,,,,,,,,,,,,kg,
+damson-plums,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Damson-close-up.jpeg?v=1456211083,2,,,,,,,,,,,,,,,,,,,,
+brandywine-tomatoes,Brandywine Tomatoes,"<meta charset=""utf-8"">
+<p>Brandywine tomatoes popularly is considered among the best tasting available, probably is caused its origin. Brandywine tomato plant is an heirloom cultivar of the species. if you want to taste the best tomatoey flavor this tomato is exactly what you need. This particular cultivar is extremely succulent and tasty. It is a beautifully sweet tomato that is offset by a wonderful acidity that is a perfect combination for delicious dishes.</p>
+<h1>[Nutritional value]</h1>
+<p>Energy|18Kcal, Carbohydrates|3.9g, Protein|0.9g, Total Fat|0.2g, Dietary Fiber|1.2g</p>
+<p><span>Vitamins:a,c,e,k</span></p>
+<p><span>Minerals:Ca,Zn,Ma,P,Mn</span></p>",Foodly,Harvest 2015,"acidic, fresh, harvest 2015, pasta, pizza, preserves, sandwich, sauce, sweet, tomatoes, vegetables",true,Title,Default Title,,,,,SK99077,0,shopify,40,deny,manual,8.05,9.00,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/Brandywine-tomatoes-front.jpeg?v=1456211078,1,,false,,,,,,,,,,,,,,,,,kg,
+brandywine-tomatoes,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Brandywine-Tomatoes.jpeg?v=1456211078,2,,,,,,,,,,,,,,,,,,,,
+cherry-tomatoes,Cherry Tomatoes,"<p>These Cherry tomatoes just might be the sweetest little tomatoes we’ve ever offered. It is all thanks to perfect weather conditions this season. Very small, firm and juicy, it’s a great choice when you’re looking for a fresh and nutritious option for snacking. And when you’re making salads, just wash and toss in – no slicing required.</p>
+<meta charset=""utf-8"">
+<h1>[Nutritional value]</h1>
+<p>Energy|18Kcal, Carbohydrates|3.9g, Protein|0.9g, Total Fat|0.2g, Dietary Fiber|1.2g</p>
+<p><span>Vitamins:a,c,e,k</span></p>
+<p><span>Minerals:Ca,Zn,Ma,P,Mn</span></p>",Foodly,Harvest 2015,"cherry, cherry tomatoes, fresh, harvest 2015, red, salad, small, snack, tomatoes",true,Color,red,,,,,SF00901,0,shopify,40,deny,manual,3.74,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/Cherry-tomatoes-above.jpeg?v=1472537367,1,,false,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Cherry-tomatoes-front.jpeg?v=1472537367,kg,
+cherry-tomatoes,,,,,,,,yellow,,,,,SF00902,0,shopify,40,deny,manual,4.74,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/Cherry-tomatoes-front.jpeg?v=1472537367,2,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Cherry-tomatoes-front-yellow.jpg?v=1472537367,kg,
+cherry-tomatoes,,,,,,,,orange,,,,,SF00903,0,shopify,40,deny,manual,5.74,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/Cherry-tomatoes-front-orange.jpg?v=1472537367,3,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Cherry-tomatoes-front-orange.jpg?v=1472537367,kg,
+cherry-tomatoes,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Cherry-tomatoes-front-yellow.jpg?v=1472537367,4,,,,,,,,,,,,,,,,,,,,
+fuji-apples,Fuji Apples,"<p>Fuji apples are very special ones as they contain the taste of two absolutely different apple varieties Red Delicious and old Virginia Ralls Genet. These apples have a dense flesh that is sweeter and crisper than many other apple cultivars, making them popular with consumers not only in our region but around the world as well. It is not the only advantage they have. Fuji is a long liver, they can be kept on shelves for a long time compared to other apples, even without refrigeration. With refrigeration, Fuji apples can remain fresh for up to a year. It is exactly what you need if you are looking for a fruit store as a backup.</p>
+<meta charset=""utf-8"">
+<h2>[Nutritional value]</h2>
+<p><span>Energy | 52 kcal, </span><span>Carbohydrates |13.81 g, </span><span>Fat | 0.17 g</span></p>
+<ul></ul>
+<p><span>Vitamins:a,</span>b1,b2,b3,b5,b6,b9,c,e,k</p>
+<p>Minerals:Ca,Fr,Mg,Mn,P</p>",Foodly,Harvest 2014,"apple, dessert, fresh, fuji apples, harvest 2014, long shelf life, red, sweet",true,Title,Default Title,,,,,SR89070,0,shopify,100,deny,manual,9.39,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/Fuji-single.jpeg?v=1456211065,1,,false,,,,,,,,,,,,,,,,,kg,
+fuji-apples,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Fuji.jpeg?v=1456211065,2,,,,,,,,,,,,,,,,,,,,
+golden-delicious-apples,Golden Delicious Apples,"<p>It's already has been a well-known cultivar and beloved deeply by customers by its very sweet taste. Golden Delicious <span>is a favorite fruit for </span>salads, apple sauce, and apple butter. We recommend this cultivar to try as a filling of the pie. We find its delicious sweet taste a worth constituent to this dessert. <span>Golden Delicious apples</span><span> keep their shape well after baking, so you'll get beautiful slices that would make your pie looks perfect.</span></p>
+<meta charset=""utf-8"">
+<h2></h2>
+<h2>[Nutritional value]</h2>
+<p><span>Energy | 52 kcal, </span><span>Carbohydrates |13.81 g, </span><span>Fat | 0.17 g</span></p>
+<ul></ul>
+<p><span>Vitamins:a,</span>b1,b2,b3,b5,b6,b9,c,e,k</p>
+<p>Minerals:Ca,Fr,Mg,Mn,P</p>",Foodly,Harvest 2015,"apples, dessert, fruit, harvest 2015, sweet",true,Title,Default Title,,,,,ER44654,0,shopify,12,deny,manual,2.30,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/Golden-Delicious-Apples.jpeg?v=1456211059,1,,false,,,,,,,,,,,,,,,,,kg,
+golden-delicious-apples,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Golden-Delicious-Apples-cut-off.jpeg?v=1456211059,2,,,,,,,,,,,,,,,,,,,,
+golden-delicious-apples,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Golden-Delicious-Yellow-Background.jpeg?v=1456211059,3,,,,,,,,,,,,,,,,,,,,
+red-bell-pepper,Red Bell Pepper,"<p>Red pepper is<span> rich source of antioxidants and vitamin C. The level of </span>carotene<span>, like </span>lycopene<span>, is nine times higher particularly in Red peppers in comparison to other variaties of pepper. Red peppers have twice the vitamin C content of green peppers. Nourishing this fine pepper cultivar, you are taking care of yourself and your family providing them with a healthy and very useful food.</span></p>
+<h1>[Nutritional value]</h1>
+<p>Energy|20Kcal, Carbohydrates|4.64g, Protein|0.86g, Total Fat|0.17g, Dietary Fiber|1.8g</p>
+<p>Vitamins:b1,b6,c,k</p>
+<p>Minerals:Ca,Fe,Zn,Mg,P,Mn</p>",Foodly,Harvest 2015,"fresh, paella, paprika, pepper, red, southern cuisine, vegetables",true,Title,Default Title,,,,,"",0,shopify,19,deny,manual,5.04,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/Red-Bell-Pepper.jpeg?v=1456211053,1,,false,,,,,,,,,,,,,,,,,kg,
+red-bell-pepper,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Red-Bell-Pepper-2.jpeg?v=1456211053,2,,,,,,,,,,,,,,,,,,,,
+red-bell-pepper,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Pepper-Bundle.jpeg?v=1456211053,3,,,,,,,,,,,,,,,,,,,,
+capia-pepper,Capia Pepper,"<p><span>Capia peppers are rich in ascorbic acid and carotene. Grill it or just eat it raw. The Capia pepper is a delicatecy of different southern cousines, now organic at your kitchen. Just give it a try and see how it taste in your paella.</span></p>
+<h1>[Nutritional value]</h1>
+<p>Energy|20Kcal, Carbohydrates|4.64g, Protein|0.86g, Total Fat|0.17g, Dietary Fiber|1.8g</p>
+<p>Vitamins:b1,b6,c,k</p>
+<p>Minerals:Ca,Fe,Zn,Mg,P,Mn</p>",Foodly,Harvest 2015,"fresh, grill, harvest 2015, raw, red, southern cuisine, vegetables",true,Title,Default Title,,,,,"",0,shopify,19,deny,manual,6.95,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/Capia-Pepper-above.jpeg?v=1456211049,1,,false,,,,,,,,,,,,,,,,,kg,
+capia-pepper,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Capia-Pepper.jpeg?v=1456211049,2,,,,,,,,,,,,,,,,,,,,
+parsley,Parsley,"<p>Use curly leaf parsley as a garnish on your main dishes. We recommend this fresh herbal as a garnish on potato dishes (boiled or mashed potatoes), on rice dishes (risotto or pilaf), on fish, fried chicken, lamb, goose, and steaks, as well in meat or vegetable stews (including shrimp creole, beef bourguignon, goulash, or chicken paprikash).</p>
+<h1>[Nutritional value]</h1>
+<p>Energy|36Kcal, Carbohydrates|6.33g, Protein|2.97g, Fat|0.79g, Dietary Fiber|3.3g</p>
+<p>Vitamins:a,b3,b9,c,k</p>
+<p>Minerals:Ca,Fe,Zn,Mg,K,Mn</p>",Foodly,Harvest 2015,"dried, fresh, green, harvest 2015, herbals, parsley",true,Dimension,Bunch,,,,,FS014,0,shopify,0,deny,manual,1.75,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/Parsley.jpeg?v=1456211045,1,,false,,,,,,,,,,,,,,,,,kg,
+parsley,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Parsley-close-up.jpeg?v=1456211045,2,,,,,,,,,,,,,,,,,,,,
+parsley,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Parsley-above.jpeg?v=1456211045,3,,,,,,,,,,,,,,,,,,,,
+organic-corn-oil,Organic Corn Oil,"<p>Our Organic Corn Oil is a cholesterol-free food product with zero grams of trans fat per individual serving. Corn oil is often used for popping popcorn and frying French fries and can be used for regular cooking in place of other oils. This 100 percent pure, cholesterol-free oil gives you a heart-healthy way to cook your favorite meals.</p>",Foodly,Harvest 2014,"corn, dressing, liquid, oil, vegetable oil",true,Title,Default Title,,,,,TY89077,0,shopify,70,deny,manual,8.98,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/Single-oil.jpeg?v=1456211037,1,,false,,,,,,,,,,,,,,,,,oz,
+organic-corn-oil,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Corn-Oil-perspective.jpeg?v=1456211037,2,,,,,,,,,,,,,,,,,,,,
+organic-corn-oil,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Oil-and-vineguard.jpeg?v=1456211037,3,,,,,,,,,,,,,,,,,,,,
+balsamic-vinegar,Balsamic Vinegar,"<meta charset=""utf-8""><span><span>Local Balsamiq Vinegar </span></span><meta charset=""utf-8""><span><span>tastes like real vinegar imported from Italy, but less expensive and taste with native flavour. It </span>works well in a salad mixed with extra virgin olive oil. Put it on lettuce or a tomato slice and give it a try with crisp toast! </span>",Foodly,Harvest 2014,"balsamic, balsamic vinegar, balsamiq, dressing, filling, liquid, vinegar",true,Title,Default Title,,,,,TY89784,0,shopify,27,deny,manual,3.48,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/Vinegar.jpeg?v=1456211029,1,,false,,,,,,,,,,,,,,,,,oz,
+balsamic-vinegar,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Vinegar-single.jpeg?v=1456211029,2,,,,,,,,,,,,,,,,,,,,
+balsamic-vinegar,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Vinegar-and-tomatoes.jpeg?v=1456211029,3,,,,,,,,,,,,,,,,,,,,
+paprika-cayenne-pepper-mixed-spice,Paprika & Cayenne Pepper Mixed Spice,"<p>A perfect combination of spicy flavor to enrich the taste of your dishes. We recommend to use it as a key ingredient in a variety of hot sauces, particularly those employing vinegar as a preservative. Our pepper mixed spice is created based on a special proportion of each ingredient that makes it perfect to be spread on sandwiches or similar items to add a spicy flavor.</p>
+<p>This mix consists of paprika and cayenne pepper, clove, mustard, zest and oregano. </p>",Foodly,Harvest 2014,"cilly, dried, hot spice, pepper, spice",true,Title,Default Title,,,,,"",0,,1,deny,manual,15.50,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/Pepper-Mixed-Spice.jpeg?v=1456211025,1,,false,,,,,,,,,,,,,,,,,g,
+paprika-cayenne-pepper-mixed-spice,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Pepper-Mixed-Spice-with-Spoon.jpeg?v=1456211025,2,,,,,,,,,,,,,,,,,,,,
+paprika-cayenne-pepper-mixed-spice,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Spoons-Collection.jpeg?v=1456211025,3,,,,,,,,,,,,,,,,,,,,
+copy-of-paprika-cayenne-pepper-mixed-spice,Green Mixed Spice,"<p>This mixture works best for soups, stews and salads. We also highly recommend to try it as a basis of your parsley pesto season. This spice would make it extremely delightful. It will add a delicious aroma to your cooking so no one can ignore it. Our pepper mixed spice is created based on a special proportion of each ingredient that makes it a perfect addition to your everyday meal.</p>
+<p>This mix consists of dried and powered basil, parsley, oregano, rosemary and thyme.</p>",Foodly,Harvest 2014,"cilly, dried, hot spice, pepper, spice",true,Title,Default Title,,,,,UT87860,0,shopify,200,deny,manual,9.89,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/Green-Mixed-Spice.jpeg?v=1456211020,1,,false,,,,,,,,,,,,,,,,,g,
+copy-of-paprika-cayenne-pepper-mixed-spice,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Green-Mixed-Spice-with-Spoon.jpeg?v=1456211020,2,,,,,,,,,,,,,,,,,,,,
+copy-of-paprika-cayenne-pepper-mixed-spice,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Green-Mixed-Spice-Decorated.jpeg?v=1456211020,3,,,,,,,,,,,,,,,,,,,,
+red-mixed-spice,Red Mixed Spice,"<p>Constituents of this mixture prove the name of it. Red Mixed Spice is full of flavored ingredients such as dried tomatoes and pepper, paprika, carrot, onion, garlic, mustard, ginger, and sea salt. We designed it specially for dishes of rice paella or risotto. It works great with a Spanish soup gazpacho or any other tomato dish.</p>",Foodly,Harvest 2014,"cilly, dried, paprika, spice, tomato",true,Title,Default Title,,,,,UT76001,0,shopify,200,deny,manual,7.99,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/Red-Mixed-Spice.jpeg?v=1456211012,1,,false,,,,,,,,,,,,,,,,,g,
+red-mixed-spice,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Red-Mixed-Spice-with-Spoon.jpeg?v=1456211012,2,,,,,,,,,,,,,,,,,,,,
+red-mixed-spice,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Four-Spices.jpeg?v=1456211012,3,,,,,,,,,,,,,,,,,,,,
+veg-mixed-spice,Veg Mixed Spice,"<p>Vegetables can be useful in any state fresh, boiled, grilled and even dried. This is a mixture of our favorite and so native vegetables wrapped up into the mix of flavors. Veg Mixed Spice contains dried carrots, onion, leek, bell pepper, chilli pepper, garlic, basil, oregano, marjoram, allspice and black and white pepper. Feel free to add spice to any of your boiled, stewed or baked dishes. It will make your meat food aromatic and particularly tasty.</p>",Foodly,Harvest 2014,"allspice, carrot, dried, garlic, herbal, majoran, oregano, paprika, spice, tomato, vegetables",true,Title,Default Title,,,,,UT76078,0,shopify,400,deny,manual,8.14,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/Veg-Mixed-Spice.jpeg?v=1456211007,1,,false,,,,,,,,,,,,,,,,,g,
+veg-mixed-spice,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Three-Spice-Spoons.jpeg?v=1456211007,2,,,,,,,,,,,,,,,,,,,,
+veg-mixed-spice,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Spice-Plates.jpeg?v=1456211007,3,,,,,,,,,,,,,,,,,,,,
+sweet-grapes,Sweet Grapes,"<p><span>Thompson seedless grapes are one of the world's most popular eating grapes. It has a perfect refreshing sweet taste. What's the best of it that they can be a dessert itself or used in some sort of fruit salad seasoned with any condiment or juice.  </span></p>
+<h2>[Nutritional value]</h2>
+<p>Energy | 39 kcal, Carbohydrates |10 g, Fat | 0.1 g, Protein | 0.5g</p>
+<ul></ul>
+<p>Vitamins:a,b1,b2,b3,b5,b6,c,e,k</p>
+<p>Minerals:Ca,Fr,Mg,Mn,P,Zn</p>",Foodly,"","",true,Title,Default Title,,,,,"",2000,,1,deny,manual,15.00,,true,true,"",,,,false,,,,,,,,,,,,,,,,,kg,
+balsamic-vinegar-2015,Balsamic Vinegar 2015,"<meta charset=""utf-8""><span><span>Local Balsamiq Vinegar </span></span><meta charset=""utf-8""><span><span>tastes like real vinegar imported from Italy, but less expensive and taste with native flavour. It </span>works well in a salad mixed with extra virgin olive oil. Put it on lettuce or a tomato slice and give it a try with crisp toast! </span>",Foodly,Harvest 2015,"balsamic, balsamic vinegar, balsamiq, dressing, filling, liquid, vinegar",true,Title,Default Title,,,,,TY89784,0,shopify,27,deny,manual,3.48,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/Vinegar_39f87480-3235-407b-a2e6-4fe718fde5ff.jpeg?v=1456211000,1,,false,,,,,,,,,,,,,,,,,oz,
+balsamic-vinegar-2015,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Vinegar-single_51e52c69-100f-41e2-b823-0c8480101143.jpeg?v=1456211000,2,,,,,,,,,,,,,,,,,,,,
+balsamic-vinegar-2015,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Vinegar-and-tomatoes_c3c532ba-8857-4e2f-95d6-a27153a068d2.jpeg?v=1456211000,3,,,,,,,,,,,,,,,,,,,,
+organic-corn-oil-2015,Organic Corn Oil 2015,"<p>Our Organic Corn Oil is a cholesterol-free food product with zero grams of trans fat per individual serving. Corn oil is often used for popping popcorn and frying French fries and can be used for regular cooking in place of other oils. This 100 percent pure, cholesterol-free oil gives you a heart-healthy way to cook your favorite meals.</p>",Foodly,Harvest 2015,"corn, dressing, liquid, oil, vegetable oil",true,Title,Default Title,,,,,TY89077,0,shopify,70,deny,manual,8.98,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/Single-oil_b090e5f0-5e98-405e-8d0e-0ce3ba858cce.jpeg?v=1456210996,1,,false,,,,,,,,,,,,,,,,,oz,
+organic-corn-oil-2015,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Corn-Oil-perspective_06d7de99-ae57-4a32-b378-4d226941471d.jpeg?v=1456210996,2,,,,,,,,,,,,,,,,,,,,
+organic-corn-oil-2015,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Oil-and-vineguard_f8e5d40b-4319-4041-a6c4-7c8a277ea8ba.jpeg?v=1456210996,3,,,,,,,,,,,,,,,,,,,,
+c-overload,C - OVERLOAD,"<meta charset=""utf-8"">
+<p>Season offer consists of 3 items full of C vitamin that is so important for your health especially in the fall when you can get cold. That's why we picked 2 pints of raspberries, 1 kg of Stanley plums and 2 kg of Fuji apples to make your health prepared for the nasty weather. All these items are carefully packed into a wooden box so there is no worries about shopping. Everything will be delivered on time and in proper shape.</p>
+<p>And of course, it is a discount offer where you save 20%. Safe and sound gets a new meaning ;)</p>",Foodly,Harvest 2015,"fresh, fruit, harvest 2015, raspberries, sale, season",true,Size,pack,,,,,"",0,shopify,0,deny,manual,12.00,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/raspberries_ed450429-f3d8-4757-9507-f18101c2c057.jpeg?v=1456210992,1,,false,,,,,,,,,,,,,,,,,kg,
+c-overload,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Stanley-Plums-Above_bcaaac45-1ebe-426a-a915-34f35561e082.jpeg?v=1456210992,2,,,,,,,,,,,,,,,,,,,,
+c-overload,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Apple-in-the-middle.jpeg?v=1456210992,3,,,,,,,,,,,,,,,,,,,,
+vit-plate,Vit-plate,"<meta charset=""utf-8"">
+<p>A special offer consists of 3 items that are full of freshness and energy. Exactly what you need in the morning to start your day and be ready for new challenges. That's why we picked 1 kg of Maynard plums, 1 kg of Thompson Seedless grape and 1 kg of peaches and 1 kg of Stanley plums. All these items are carefully packed into a wooden box so there is no worries about shopping. Everything will be delivered on time and in proper shape.</p>
+<p>And of course, it is a discount offer where you save 15%. Safe and sound gets a new meaning ;)</p>",Foodly,Harvest 2015,"fresh, fruit, grapes, harvest 2015, peaches, plums, sale",true,Title,Default Title,,,,,"",0,shopify,1,deny,manual,24.89,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/plums_wideangle_grande_66dba985-63ff-4613-b0af-f3074b9e3b2b.jpg?v=1458054271,1,,false,,,,,,,,,,,,,,,,,kg,
+vit-plate,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Thompson-Seedless-Grape_1a307bce-03ad-4153-aa6c-25d6919b5a31.jpeg?v=1458054271,2,,,,,,,,,,,,,,,,,,,,
+vit-plate,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1148/3974/products/Maynard-plum-close-up_740952ff-7591-4c06-b829-0c20b04f583d.jpeg?v=1458054271,3,,,,,,,,,,,,,,,,,,,,
+gift-card,Gift Card,"<p>Shopping for someone else but not sure what to give them?
+Give them the gift of choice with a foodly-store gift card.</p>
+
+<p>Gift cards are delivered by email and contain instructions to redeem them at checkout.
+Our gift cards have no additional processing fees.</p>
+",foodly-store,Gift Card,"",false,Title,$10.00,,,,,"",0,,1,continue,gift_card,10.00,,false,false,,https://cdn.shopify.com/s/files/1/1148/3974/products/e38bd83af578077b65a31424bd24d085.png?v=1455866917,1,,true,,,,,,,,,,,,,,,,,kg,
+gift-card,,,,,,,,$25.00,,,,,"",0,,1,continue,gift_card,25.00,,false,false,,,,,,,,,,,,,,,,,,,,,,kg,
+gift-card,,,,,,,,$50.00,,,,,"",0,,1,continue,gift_card,50.00,,false,false,,,,,,,,,,,,,,,,,,,,,,kg,
+gift-card,,,,,,,,$100.00,,,,,"",0,,1,continue,gift_card,100.00,,false,false,,,,,,,,,,,,,,,,,,,,,,kg,
+wooden-box,Wooden box,"",foodly-store,"","",true,Title,Default Title,,,,,SK001,200,,0,deny,manual,3.00,,true,true,"",https://cdn.shopify.com/s/files/1/1148/3974/products/wooden-box.jpg?v=1455611071,1,,false,,,,,,,,,,,,,,,,,kg,

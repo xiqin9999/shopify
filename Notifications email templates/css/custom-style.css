@@ -1,0 +1,466 @@
+/* ==========================================================================
+   Styles for Email Templates
+   by Congruity Hub
+   ========================================================================== */
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Raleway, Tahoma, Geneva, sans-serif;
+    font-size: 16px;
+    line-height: 30px;
+    color: #5c4b51;
+}
+
+.main-content {
+    padding-top: 50px;
+}
+
+.header {
+    width: 100%;
+    height: 140px;
+    text-align: center;
+    background-color: #f5f4f4;
+}
+
+.heading {
+    margin: 0 auto;
+    padding-top: 50px;
+    font-family: Bitter, 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    font-size: 24px;
+    letter-spacing: normal;
+    text-transform: none;
+    color: #5c4b51;
+}
+
+.heading--seperate {
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 0 15px;
+    max-width: 640px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.code-container {
+    position: relative;
+    min-height: 100%;
+}
+
+.text-center {
+    text-align: center;
+}
+
+
+/* --------------- Images --------------- */
+
+.img-holder {
+    height: 150px;
+    min-width: 135px;
+    float: left;
+    border: 3px solid #f5f4f4;
+}
+
+.img-holder figure {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    text-align: center;
+}
+
+.img-holder img {
+    height: 100%;
+}
+
+.figure-caption {
+    display: none;
+}
+
+.image-container {
+  margin: 0 auto;
+  max-width: 980px;
+  width: 100%;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+
+  flex-wrap:  wrap;
+}
+
+.image-container .img-holder-border {
+  width: 100%;
+  margin: 20px 10px;
+}
+
+.image-container .img-holder-border img {
+  width: 100%
+}
+
+.img-holder-border {
+  position: relative;
+  text-align: center;
+  border: 3px solid #f5f4f4;
+}
+
+.img-holder-border .figure-caption {
+  margin-right: -70px;
+  padding: 2px 15px;
+  min-width: 140px;
+  height: 40px;
+  position: absolute;
+  top: -20px;
+  right: 50%;
+  background-color: #ffffff;
+  border: 3px solid #5c4b51;
+  box-sizing: border-box;
+
+  -webkit-box-shadow: 0px 0px 21px 0px rgba(92, 75, 81, 0.2);
+          box-shadow: 0px 0px 21px 0px rgba(92, 75, 81, 0.2);
+}
+
+
+/* --------------- Lists --------------- */
+
+ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+ol {
+  padding-left: 0px;
+  counter-reset: point;
+  list-style: none;
+}
+
+ol > li {
+  padding: 7px 0 7px 36px;
+  position: relative;
+  line-height: 30px;
+}
+
+ol > li:before {
+  content: counter(point,decimal);
+  counter-increment: point 1;
+  position: absolute;
+  top: 5px;
+  left: 0px;
+  font-family: Raleway, Tahoma, Geneva, sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  color: #d1cacc;
+}
+
+ol li  p,
+ul li  p {
+  margin: 12px 0 0 0;
+}
+
+.email-list {
+    padding-top: 50px;
+}
+
+.email-info {
+    position: relative;
+    margin-left: 180px;
+}
+
+.email-heading {
+    font-family: Bitter, 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.email-list .email-list__item {
+    margin-bottom: 30px;
+    clear: both;
+    min-height: 200px;
+}
+
+.email-code {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+}
+
+.email-code-area {
+    width: 100%;
+    height: 480px;
+    height: calc(100vh - 150px);
+    font-family: 'PT Mono', "Courier New", Courier, monospace;
+    font-size: 12px;
+    box-sizing: border-box;
+    resize: none;
+}
+
+.email-code:focus,
+.email-code-area:focus {
+    outline-offset: 0;
+    outline: 0;
+}
+
+.code-heading {
+    margin: 0;
+    padding: 17px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: normal;
+    background: rgba(92, 75, 81, 1);
+    width: 100%;
+    box-sizing: border-box;
+}
+
+
+/* --------------- Buttons --------------- */
+
+a {
+    text-decoration: none;
+}
+
+button {
+    padding: 0;
+    outline: none;
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+.fallback-link {
+    display: none;
+}
+
+.btn {
+    text-transform: uppercase;
+    font-family: Raleway, Tahoma, Geneva, sans-serif;
+    font-size: 16px;
+    font-weight: 800;
+    letter-spacing: 1px;
+    color: #f06060;
+    -webkit-transition: color 300ms ease-in-out;
+    transition: color 300ms ease-in-out;
+}
+
+.btn:hover {
+    color: #5c4b51;
+}
+
+.btn--underline {
+    position: relative;
+}
+
+.btn--underline:before {
+    content: "";
+    margin-left: -30px;
+    margin-top: 5px;
+    display: block;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    width: 61px;
+    height: 12px;
+    background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCIgd2lkdGg9IjYxIiBoZWlnaHQ9IjEyIiB2aWV3Qm94PSIwIDAgNjEgMTIiPiAgPHBhdGggZmlsbD0iI2YwNjA2MCIgZD0iTTYwLjIxNywxLjQzMyBDNDUuNzE3LDIuODI1IDMxLjIxNyw0LjIxNyAxNi43MTcsNS42MDkgQzEzLjIyNyw1Ljk0NCA4LjgwNiw2LjIwMCA2LjM5MCw1LjMxMCBDNy44MDMsNC4xOTYgMTEuNjc2LDMuNjU0IDE1LjIwNCwzLjIxNiBDMjguMzI0LDEuNTg3IDQyLjAzMywtMC4wNjkgNTYuMTg0LDAuMzM1IEM1OC4yMzQsMC4zOTQgNjAuOTY0LDAuODMwIDYwLjIxNywxLjQzMyBaTTUwLjE1NSw1LjY3MCBDNTIuMjA1LDUuNzI4IDU0LjkzNiw2LjE2NSA1NC4xODgsNi43NjcgQzM5LjY4OCw4LjE2MCAyNS4xODgsOS41NTIgMTAuNjg4LDEwLjk0MyBDNy4xOTgsMTEuMjc4IDIuNzc4LDExLjUzNSAwLjM2MiwxMC42NDUgQzEuNzc0LDkuNTMxIDUuNjQ3LDguOTg4IDkuMTc1LDguNTUxIEMyMi4yOTUsNi45MjIgMzYuMDA1LDUuMjY1IDUwLjE1NSw1LjY3MCBaIiBjbGFzcz0iY2xzLTEiLz48L3N2Zz4=) no-repeat;
+    -webkit-transition: background 300ms ease-in-out;
+    transition: background 300ms ease-in-out;
+}
+
+.btn--underline:hover:before {
+    background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCIgd2lkdGg9IjYxIiBoZWlnaHQ9IjEyIiB2aWV3Qm94PSIwIDAgNjEgMTIiPiAgPHBhdGggZmlsbD0iIzVjNGI1MSIgZD0iTTYwLjIxNywxLjQzMyBDNDUuNzE3LDIuODI1IDMxLjIxNyw0LjIxNyAxNi43MTcsNS42MDkgQzEzLjIyNyw1Ljk0NCA4LjgwNiw2LjIwMCA2LjM5MCw1LjMxMCBDNy44MDMsNC4xOTYgMTEuNjc2LDMuNjU0IDE1LjIwNCwzLjIxNiBDMjguMzI0LDEuNTg3IDQyLjAzMywtMC4wNjkgNTYuMTg0LDAuMzM1IEM1OC4yMzQsMC4zOTQgNjAuOTY0LDAuODMwIDYwLjIxNywxLjQzMyBaTTUwLjE1NSw1LjY3MCBDNTIuMjA1LDUuNzI4IDU0LjkzNiw2LjE2NSA1NC4xODgsNi43NjcgQzM5LjY4OCw4LjE2MCAyNS4xODgsOS41NTIgMTAuNjg4LDEwLjk0MyBDNy4xOTgsMTEuMjc4IDIuNzc4LDExLjUzNSAwLjM2MiwxMC42NDUgQzEuNzc0LDkuNTMxIDUuNjQ3LDguOTg4IDkuMTc1LDguNTUxIEMyMi4yOTUsNi45MjIgMzYuMDA1LDUuMjY1IDUwLjE1NSw1LjY3MCBaIiBjbGFzcz0iY2xzLTEiLz48L3N2Zz4=);
+}
+
+
+.link {
+  font-weight: 600;
+  color: #f06060;
+  text-decoration: none;
+  transition: color 320ms ease-in-out;
+}
+
+.link:hover {
+  color: #5c4b51;
+  text-decoration: none;
+}
+
+
+/* --------------- Light Box --------------- */
+
+.lightboxOverlay {
+    background-color: #5c4b51;
+    opacity: .6;
+}
+
+.lb-nav,
+.lb-data .lb-number {
+    display: none !important;
+}
+
+.lb-data .lb-close {
+    margin-top: 10px;
+    width: auto;
+    height: auto;
+    opacity: 1;
+}
+
+.lb-data .lb-close:before {
+    content: "Close";
+    width: 20px;
+    height: 15px;
+    font-family: Raleway, Tahoma, Geneva, sans-serif;
+    font-size: 16px;
+    font-weight: 800;
+    text-transform: uppercase;
+    color: #f06060;
+}
+
+
+/* --------------- Tooltip --------------- */
+
+.tooltip-success {
+    padding: 20px;
+    position: absolute;
+    bottom: 30px;
+    left: -25px;
+    width: 100%;
+    max-width: 280px;
+    font-size: 14px;
+    line-height: 20px;
+    border: 3px solid #8cbeb2;
+    text-align: center;
+    box-sizing: border-box;
+    background-color: #fff;
+    z-index: -1;
+    opacity: 0;
+    -webkit-transform: translateY(100%);
+    -ms-transform: translateY(100%);
+    transform: translateY(100%);
+}
+
+.tooltip-success.show {
+    -webkit-animation: fadeUpTooltip 300ms ease-in-out 0ms forwards;
+    animation: fadeUpTooltip 300ms ease-in-out 0ms forwards;
+    z-index: 1;
+}
+
+@-webkit-keyframes fadeUpTooltip {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateY(100%);
+        -ms-transform: translateY(100%);
+        transform: translateY(100%);
+    }
+    100% {
+        opacity: 1;
+        -webkit-transform: translateY(0%);
+        -ms-transform: translateY(0%);
+        transform: translateY(0%);
+    }
+}
+
+@keyframes fadeUpTooltip {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateY(100%);
+        -ms-transform: translateY(100%);
+        transform: translateY(100%);
+    }
+    100% {
+        opacity: 1;
+        -webkit-transform: translateY(0%);
+        -ms-transform: translateY(0%);
+        transform: translateY(0%);
+    }
+}
+
+.tooltip-success.hide {
+    -webkit-animation: fadeDownTooltip 300ms ease-in-out 0ms forwards;
+    animation: fadeDownTooltip 300ms ease-in-out 0ms forwards;
+}
+
+@-webkit-keyframes fadeDownTooltip {
+    0% {
+        opacity: 1;
+        -webkit-transform: translateY(0%);
+        -ms-transform: translateY(0%);
+        transform: translateY(0%);
+    }
+    99% {
+        z-index: 1;
+    }
+    100% {
+        opacity: 0;
+        -webkit-transform: translateY(100%);
+        -ms-transform: translateY(100%);
+        transform: translateY(100%);
+        z-index: -1;
+    }
+}
+
+@keyframes fadeDownTooltip {
+    0% {
+        opacity: 1;
+        -webkit-transform: translateY(0%);
+        -ms-transform: translateY(0%);
+        transform: translateY(0%);
+    }
+    99% {
+        z-index: 1;
+    }
+    100% {
+        opacity: 0;
+        -webkit-transform: translateY(100%);
+        -ms-transform: translateY(100%);
+        transform: translateY(100%);
+        z-index: -1;
+    }
+}
+
+.display-none {
+    display: none;
+}
+
+@media (max-width: 480px) {
+    .email-list .email-list__item {
+        margin-bottom: 80px;
+    }
+
+    .email-info {
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .img-holder {
+        margin: 0 auto;
+        width: 135px;
+        float: none;
+    }
+}
+
+@media (min-width: 769px) {
+  .image-container {
+    margin-left: -180px;
+    width: 980px;
+  }
+  
+  .image-container .img-holder {
+    width: 48%;
+    width: calc(50% - 26px);
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .image-container {
+    margin-left: -80px;
+    width: 760px;
+  }
+}
+
+

@@ -1,0 +1,32 @@
+/* --------------------- Bitter --------------------- */
+@font-face {
+  font-family: 'Bitter';
+  src: url('Bitter/Bitter-Regular.ttf');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Bitter';
+  src: url('Bitter/Bitter-Bold.ttf');
+  font-weight: bold;
+}
+
+/* --------------------- Raleway -------------------- */
+@font-face {
+  font-family: 'Raleway';
+  src: url('Raleway/Raleway-Regular.ttf');
+  font-weight: normal;
+}
+
+
+@font-face {
+  font-family: 'Raleway';
+  src: url('Raleway/Raleway-ExtraBold.ttf');
+  font-weight: 800;
+}
+
+/* --------------------- PT Mono -------------------- */
+@font-face {
+  font-family: 'PT Mono';
+  src: url('Mono/PTM55FT.ttf');
+}

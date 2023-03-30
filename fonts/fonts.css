@@ -1,0 +1,68 @@
+/* --------------------- Bitter --------------------- */
+@font-face {
+  font-family: 'Bitter';
+  src: url('Bitter/Bitter-Regular.ttf');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Bitter';
+  src: url('Bitter/Bitter-Bold.ttf');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Bitter';
+  src: url('Bitter/Bitter-Italic.ttf');
+  font-weight: normal;
+  font-style: italic;
+}
+
+/* --------------------- Raleway -------------------- */
+@font-face {
+  font-family: 'Raleway';
+  src: url('Raleway/Raleway-Regular.ttf');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Raleway';
+  src: url('Raleway/Raleway-Light.ttf');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'Raleway';
+  src: url('Raleway/Raleway-Medium.ttf');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Raleway';
+  src: url('Raleway/Raleway-SemiBold.ttf');
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'Raleway';
+  src: url('Raleway/Raleway-Bold.ttf');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Raleway';
+  src: url('Raleway/Raleway-ExtraBold.ttf');
+  font-weight: 800;
+}
+
+/* --------------------- FontAwesome -------------------- */
+@font-face {
+  font-family: FontAwesome;
+  src: url('FontAwesome/fontawesome-webfont.ttf');
+}
+
+/* --------------------- PT Mono -------------------- */
+@font-face {
+  font-family: 'PT Mono';
+  src: url('Mono/PTM55FT.ttf');
+}
